@@ -24,9 +24,9 @@ return()=>{
         <img src={assets.brikhaus_logo} alt="" className='w-[145px] mr-3 mb-3' />
         <ul className='hidden md:flex gap-7 text-white'>
             <a href="#Header" className='cursor-pointer hover:text-gray-400'>Home</a>
-            <a href="#Header" className='cursor-pointer hover:text-gray-400'>About</a>
-            <a href="#Header" className='cursor-pointer hover:text-gray-400'>Projects</a>
-            <a href="#Header" className='cursor-pointer hover:text-gray-400'>Testimonials</a>
+            <a href="#about" className='cursor-pointer hover:text-gray-400'>About</a>
+            <a href="#projects" className='cursor-pointer hover:text-gray-400'>Projects</a>
+            <a href="#testimonials" className='cursor-pointer hover:text-gray-400'>Testimonials</a>
         </ul>
         <button className='hidden md:block bg-white px-8 py-2 rounded-full'>Signup</button>
 
