@@ -32,31 +32,37 @@ export  const projectData=[
         title:"Skyline Haven",
         price:"$20,00,000",
         location:"California",
+        image:"https://images.unsplash.com/photo-1544984243-ec57ea16fe25?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         title:"Vista Verde",
-        price:"$24,00,000",
-        location:"San Francisco",
+        price:"$24,50,000",
+        location:"Nevada LA",
+        image:"https://images.unsplash.com/photo-1628012209120-d9db7abf7eab?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         title:"Serinity Suites",
-        price:"$24,50,000",
+        price:"$21,00,000",
         location:"Chicago",
+      image:"https://images.unsplash.com/photo-1668947982891-bfa0c8c7f19a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1vZGVybiUyMCUyMGhvdXNlfGVufDB8MXwwfHx8MA%3D%3D"
     },
     {
-        title:"Central Square",
+        title:"Sunrise Park",
         price:"$30,00,000",
-        location:"Los Angeles",
+        location:"Denver",
+        image:"https://images.unsplash.com/photo-1691425700585-c108acad6467?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fG1vZGVybiUyMCUyMGhvdXNlfGVufDB8MXwwfHx8MA%3D%3D"
     }
     ,{
         title:"Barton Square",
         price:"$20,80,000",
         location:"New York",
+        image:"https://images.unsplash.com/photo-1608249529910-a850ca3a7c4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fG1vZGVybiUyMCUyMGhvdXNlfGVufDB8MXwwfHx8MA%3D%3D"
     },
     {
         title:"SandPiper Estates",
         price:"$10,50,000",
         location:"New Jersey",
+        image:"https://images.unsplash.com/photo-1564703048291-bcf7f001d83d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1vZGVybiUyMCUyMGhvdXNlfGVufDB8MXwwfHx8MA%3D%3D"
     }
 ]
 
