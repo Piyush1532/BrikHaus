@@ -74,7 +74,7 @@ export  const projectData=[
       alt: "Liam Carter - Software Engineer",
       rating: 4.8,
       text: "Finding my dream home was seamless with this agency! Their professionalism and deep market knowledge made the entire process stress-free. Highly recommend!",
-      img: "",
+      img: profile_img_1,
     },
     {
       name: "Mark Reynolds",
@@ -82,7 +82,7 @@ export  const projectData=[
       alt: "Sophia Reynolds - Marketing Specialist",
       rating: 5.0,
       text: "Exceptional service! The agents listened to my needs and found me the perfect apartment in no time. They truly go above and beyond for their clients.",
-      img: "",
+      img:profile_img_2,
     },
     {
       name: "Daniel Foster",
@@ -90,7 +90,7 @@ export  const projectData=[
       alt: "Daniel Foster - Financial Analyst",
       rating: 4.7,
       text: "A smooth and hassle-free experience! The team was transparent, professional, and helped me make a great investment in real estate.",
-      img: "",
+      img: profile_img_3,
     },
   ];
   
