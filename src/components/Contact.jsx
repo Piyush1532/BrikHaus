@@ -1,6 +1,6 @@
 import React from 'react'
 import { toast } from 'react-toastify';
-
+import { motion } from 'framer-motion';
 
 
 const Contact = () => {
@@ -46,7 +46,17 @@ console.log(apiUrl)
 
 
   return (
-    <div className='text-center p-6 py-20 lg:px-32 w-full overflow-hidden' id='contact'>
+    <motion.div
+    initial={{opacity:0,
+      x:-200
+    }}
+    transition={{duration:1}}
+    whileInView={{opacity:1,x:0}}
+    viewport={{once:true}}
+    
+    
+    
+    className='text-center p-6 py-20 lg:px-32 w-full overflow-hidden' id='contact'>
           <h1 className='text-2xl sm:text-4xl font-bold mb-2 text-center'>Contact  <span className='underline underline-offset-4 decoration-1 under font-light'>With Us</span></h1>
           <p className='text-center text-gray-500 mb-12 max-w-80 mx-auto'>Ready to Make a Move? Let's Build Your Future Together</p>
 
@@ -77,7 +87,7 @@ console.log(apiUrl)
 
 
 
-    </div>
+    </motion.div>
   )
 }
 
